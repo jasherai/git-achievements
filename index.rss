@@ -2,6 +2,7 @@
 <title>Pritesh's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 301 times with git add -p.</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
@@ -21,5 +22,4 @@
 <item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 150 times with git add -p.</description></item>
 <item><title>Product Manager (Level 6)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 </channel></rss>

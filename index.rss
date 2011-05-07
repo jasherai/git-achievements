@@ -2,6 +2,7 @@
 <title>Pritesh's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Collector (Level 1)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Carpenter (Level 2)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
 <item><title>Seamstress (Level 6)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Apprentice Cathedral Worker (Level 3)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Miller (Level 7)</title><description>Add only part of a file to the stage 301 times with git add -p.</description></item>
 <item><title>Thug (Level 4)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 </channel></rss>
